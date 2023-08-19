@@ -150,4 +150,5 @@ df.isnull().sum()
 
 ![S11](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/e5cb44d6-2f79-4fb7-8f0d-d9357394ab03)
 
-
+# RESULT:
+  Thus the given data is read,cleansed and the cleaned data is saved into the file.
