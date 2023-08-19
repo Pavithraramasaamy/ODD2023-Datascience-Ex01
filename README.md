@@ -108,10 +108,47 @@ df.isnull().sum()
 
 ![S10](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/c69839cb-6f56-47f0-a0e2-02af920eb9ef)
 
-#NON NULL AFTER
+# NON NULL AFTER
 ![S11](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/a4b05849-3e9c-49cd-a464-4e1f4677b3b6)
 
 ![S12](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/457e0703-0bfa-45d2-9b45-91607fedfabe)
 
+# OUTPUT:
+# For loan_data:
+# DATA
+![S1](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/dace3774-945a-406c-9a80-57f5fd52a12e)
+
+
+
+![S2](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/a70c293d-0e95-4b3e-a53d-d0b7dd6f0841)
+
+
+![S3](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/56283896-becf-4f5d-a581-58c85f211ac7)
+
+
+# NON NULL BEFORE
+
+![S4](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/5e01431a-43c8-4d8f-b3f2-ac25218ef988)
+
+
+![S5](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/d9662985-7953-4b92-a039-0617371eca3b)
+# MODE
+
+![S6](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/969248ef-262d-4bf8-8c82-8ff271affbcb)
+# MEAN
+
+![S7](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/1cef2831-35a8-4704-ae6d-e27f8c3d12d5)
+
+# MEDIAN
+![S9](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/9b846d73-7a57-49ce-8a30-fecfd34106d1)
+
+# NON NULL AFTER
+
+![S10](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/e2c0b60f-4a70-4c5e-8440-6e5bfbb2f0e6)
+
+
+
+
+![S11](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/e5cb44d6-2f79-4fb7-8f0d-d9357394ab03)
 
 
