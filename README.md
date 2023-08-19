@@ -19,8 +19,8 @@ Remove the null values from the data
 Save the Clean data to the file
 
 # CODE
-#For Data_set
-```python
+# For Data_set
+```
 import pandas as pd
 df=pd.read_csv("/content/Data_set(1).csv")
 print(df)
@@ -50,8 +50,9 @@ df.head()
 df.info()
 
 df.isnull().sum()
-
-#For loan_data:
+```
+# For loan_data:
+```
 import pandas as pd
 df=pd.read_csv("/content/Loan_Data.csv")
 print(df)
@@ -122,11 +123,9 @@ df.isnull().sum()
 
 ![S2](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/a70c293d-0e95-4b3e-a53d-d0b7dd6f0841)
 
-
+# NON NULL BEFORE
 ![S3](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/56283896-becf-4f5d-a581-58c85f211ac7)
 
-
-# NON NULL BEFORE
 
 ![S4](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/5e01431a-43c8-4d8f-b3f2-ac25218ef988)
 
