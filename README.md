@@ -83,13 +83,13 @@ df.info()
 df.isnull().sum()
 ```
 # OUTPUT:
-#For data_set:
-#DATA
+# For data_set:
+# DATA
 ![S1](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/6620bc88-16bf-49cc-b55f-0666f0a42420)
 
 ![S2](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/cfa63996-7964-4c7e-b074-b40d56339919)
 
-#NON NULL BEFORE
+# NON NULL BEFORE
 
 ![S4](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/21d010fc-0438-4f6d-b900-52695e73e2d1)
 
@@ -97,14 +97,14 @@ df.isnull().sum()
 ![S5](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/97d1a886-559a-426b-8aa2-28610bee288e)
 
 ![S6](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/b00773a8-554e-41c1-a72b-17b70177c931)
-#MODE
+# MODE
 
 ![S7](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/e904bac7-1680-45d2-9a77-b60a8d04e5c5)
-#MEAN
+# MEAN
 
 ![S8](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/2baff34b-a585-4679-9db5-26220c99471b)
 
-#MEDIAN
+# MEDIAN
 
 ![S10](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex01/assets/118596964/c69839cb-6f56-47f0-a0e2-02af920eb9ef)
 
